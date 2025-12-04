@@ -5,5 +5,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=eden1011&theme=github-compact" alt="Contribution Graph" />
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=eden1011&theme=github-compact" alt="Contribution Graph" />
 </p>
