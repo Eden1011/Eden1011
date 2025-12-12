@@ -11,6 +11,7 @@
 <a href="https://github.com/Eden1011.gpg">
   <img src="https://img.shields.io/badge/PGP-E116C081E47E7C97-313131?style=for-the-badge&logo=gnuprivacyguard&logoColor=0093DD" alt="GPG Key" width="200" />
 </a>
+
 <a href="https://github.com/Eden1011">
-  <img src="https://komarev.com/ghpvc/?username=eden1011&style=for-the-badge&color=blue" alt="Profile Views" width="100" />
+  <img src="https://komarev.com/ghpvc/?username=eden1011&style=for-the-badge&color=blue" alt="Profile Views" width="125" />
 </a>
