@@ -13,5 +13,5 @@
 </a>
 
 <a href="https://github.com/Eden1011">
-  <img src="https://komarev.com/ghpvc/?username=eden1011&style=for-the-badge&color=blue" alt="Views" width="130" />
+  <img src="https://komarev.com/ghpvc/?username=eden1011&style=for-the-badge&color=blue" alt="Views" width="132" />
 </a>
