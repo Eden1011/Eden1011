@@ -7,3 +7,18 @@
 <p align="center">
   <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=eden1011&theme=github-compact" alt="Contribution Graph" />
 </p>
+
+---
+
+<table>
+  <tr>
+    <td align="left">
+      <a href="https://keys.openpgp.org/search?q=E116C081E47E7C97">
+        <img src="https://img.shields.io/badge/PGP-E116C081E47E7C97-313131?style=for-the-badge&logo=gnuprivacyguard&logoColor=0093DD" alt="GPG Key" />
+      </a>
+    </td>
+    <td align="right">
+      <img src="https://komarev.com/ghpvc/?username=eden1011&style=for-the-badge&color=blue" alt="Profile Views" />
+    </td>
+  </tr>
+</table>
