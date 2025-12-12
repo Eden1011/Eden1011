@@ -8,5 +8,9 @@
   <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=eden1011&theme=github-compact" alt="Contribution Graph" />
 </p>
 
-[![pgp](https://img.shields.io/badge/pgp-E116C081E47E7C97?style=flat&labelColor=0d1117&color=0d1117)](https://keys.openpgp.org/vks/v1/by-fingerprint/E4D5CA2F22A1741FA6D51969E116C081E47E7C97)
-[![views](https://komarev.com/ghpvc/?username=Eden1011&style=flat&color=0d1117&label=views)](https://github.com/Eden1011)
+<a href="https://github.com/Eden1011.gpg">
+  <img src="https://img.shields.io/badge/PGP-E116C081E47E7C97-313131?style=for-the-badge&logo=gnuprivacyguard&logoColor=0093DD" alt="GPG Key" width="200" />
+</a>
+<a href="https://github.com/Eden1011">
+  <img src="https://komarev.com/ghpvc/?username=eden1011&style=for-the-badge&color=blue" alt="Profile Views" width="200" />
+</a>
